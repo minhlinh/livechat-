@@ -1,4 +1,4 @@
-	// window._sbzq||function(e){
+	// @window._sbzq||function(e){
 	// 	e._sbzq=[];
 	// 	var t=e._sbzq;
 	// 	t.push(["_setAccount",24946]);
